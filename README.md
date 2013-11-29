@@ -1,7 +1,7 @@
 More-Topics
 ===========
 
-Adds More Topics to GDT
+Adds 65 New Topics to GDT
 
 0.1-Broken has 1 topic
 
@@ -14,3 +14,5 @@ Adds More Topics to GDT
 0.5 Added 4 new topics
 
 0.6 Added 2 New topics
+
+0.7 Added 34 new Topics
