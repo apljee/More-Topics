@@ -3,7 +3,7 @@
 	  
 		
 	    //Adds Topics
-		More Topics.addTopic();
+		MoreTopics.addTopic();
 	};
 
 	var error = function () {
