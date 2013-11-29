@@ -6,7 +6,7 @@ var MoreTopics = {};
 	MoreTopics.addTopic = function () {
 	GDT.addTopics([
 		{;
-			 }, {
+	            }, {
                         id: "Incremental",
                     name: "Incremental".localize("game topic"),
                     genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
