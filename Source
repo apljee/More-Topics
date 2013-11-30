@@ -302,7 +302,77 @@ var MoreTopics = {};
                         id: "Gold",
                         name: "Gold".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
-                        audienceWeightings: [0.8, 1, 0.8]								
+                        audienceWeightings: [0.8, 1, 0.8]
+               },  { 
+                        id: "Building",
+                        name: "Building".localize("game topic"),
+                        genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
+                        audienceWeightings: [0.8, 1, 0.8]
+                },  { 
+                        id: "Brawler",
+                        name: "Brawler".localize("game topic"),
+                        genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
+                        audienceWeightings: [0.8, 1, 0.8]
+                },  { 
+                        id: "Robbery",
+                        name: "Robbery".localize("game topic"),
+                        genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
+                        audienceWeightings: [0.8, 1, 0.8]
+                },  { 
+                        id: "Genetics",
+                        name: "Genetics".localize("game topic"),
+                        genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
+                        audienceWeightings: [0.8, 1, 0.8]
+                },  { 
+                        id: "Kitty Cats",
+                        name: "Kitty Cats".localize("game topic"),
+                        genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
+                        audienceWeightings: [0.8, 1, 0.8]
+                },  { 
+                        id: "Candy",
+                        name: "Candy".localize("game topic"),
+                        genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
+                        audienceWeightings: [0.8, 1, 0.8]
+                },  { 
+                        id: "Cyborgs",
+                        name: "Cyborgs".localize("game topic"),
+                        genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
+                        audienceWeightings: [0.8, 1, 0.8]
+                 },  { 
+                        id: "Daleks",
+                        name: "Daleks".localize("game topic"),
+                        genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
+                        audienceWeightings: [0.8, 1, 0.8]
+                 },  { 
+                        id: "Vampire",
+                        name: "Vampire".localize("game topic"),
+                        genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
+                        audienceWeightings: [0.8, 1, 0.8]
+                },  { 
+                        id: "Werewolves",
+                        name: "Werewolves".localize("game topic"),
+                        genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
+                        audienceWeightings: [0.8, 1, 0.8]
+                },  { 
+                        id: "Darts",
+                        name: "Darts".localize("game topic"),
+                        genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
+                        audienceWeightings: [0.8, 1, 0.8]
+                },  { 
+                        id: "Dinosaurs",
+                        name: "Dinosaurs".localize("game topic"),
+                        genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
+                        audienceWeightings: [0.8, 1, 0.8]
+                },  { 
+                        id: "Loot",
+                        name: "Loot".localize("game topic"),
+                        genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
+                        audienceWeightings: [0.8, 1, 0.8]
+                },  { 
+                        id: "Cave Men",
+                        name: "Cave Men".localize("game topic"),
+                        genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
+                        audienceWeightings: [0.8, 1, 0.8]						
             ]);
         };                      
 })();
